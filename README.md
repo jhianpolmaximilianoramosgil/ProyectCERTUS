@@ -18,7 +18,7 @@ Frontend implementado con puro html y css, img, con la intención de aplicar con
 
 ![](source/img/grupo.jpg)
 
-**Confirmar Pedido**
+**Pedido aceptado**
 - Se muestra una vista simple con un texto Gracias por confirmar su pedido
 - Se muestra un enlace de referencia que lleva por nombre regresar, lo que hace es redirigirte a la pagina principal
 
