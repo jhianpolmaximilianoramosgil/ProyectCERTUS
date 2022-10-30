@@ -13,5 +13,5 @@ Frontend implementado con puro html y css, img.
 - Al hacer click en "Grupo y confirmar pedido" podremos apreciar un formulario básico y foto con diseño y estilos de nombres de los miembros.
 
 
-![](source/img/1 (10).jpg)
+![](source/img/1(10).jpg)
 
