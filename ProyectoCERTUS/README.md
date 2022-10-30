@@ -1,1 +1,0 @@
-# jhianpolmaximilianoramosgil.github.io
