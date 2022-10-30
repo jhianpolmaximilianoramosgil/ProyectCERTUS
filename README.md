@@ -1,4 +1,4 @@
-# Team03 - Tienda Pepito básico 
+#  Tienda Pepito básico 
 Frontend implementado con puro html y css, img.
 
 **Página Inicio**
