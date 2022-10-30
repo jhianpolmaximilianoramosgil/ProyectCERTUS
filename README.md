@@ -18,5 +18,10 @@ Frontend implementado con puro html y css, img.
 
 ![](source/img/grupo.jpg)
 
+**Confirmar Pedido**
+- Se muestra una vista simple con un texto Gracias por confirmar su pedido
+- Se muestra un enlace de referencia que lleva por nombre regresar, lo que hace es redirigirte a la pagina principal
+
+![](source/img/regresar.jpg)
 
 
