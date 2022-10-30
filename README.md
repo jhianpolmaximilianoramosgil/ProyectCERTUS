@@ -1,5 +1,5 @@
 #  Tienda Pepito básico 
-Frontend implementado con puro html y css, img.
+Frontend implementado con puro html y css, img, con la intención de aplicar conocimientos básicos de html y css, eligiendo un proyecto de tienda de productos electrónicos. 
 
 **Página Inicio**
 - Consta de una vista principal, pagina de inicio con una breve descripción.
